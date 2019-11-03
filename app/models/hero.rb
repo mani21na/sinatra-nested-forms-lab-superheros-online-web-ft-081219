@@ -13,5 +13,5 @@ class Hero
   
   def self.all 
     HERO
-  end 
+  
 end 
