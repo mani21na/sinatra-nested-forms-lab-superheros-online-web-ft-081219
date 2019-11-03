@@ -1,3 +1,3 @@
 class Hero 
-  attr_reader 
+  attr_reader :name, :power, :biography
 end 
