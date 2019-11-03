@@ -10,4 +10,8 @@ class Hero
     
     HERO << self
   end 
+  
+  def self.all 
+    HERO
+  end 
 end 
