@@ -9,4 +9,6 @@ class Team
     
     @@all << self
   end 
+  
+  def 
 end 
