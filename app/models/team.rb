@@ -1,3 +1,3 @@
 class Team 
-  attr_reader 
+  attr_reader :name, :motto
 end 
