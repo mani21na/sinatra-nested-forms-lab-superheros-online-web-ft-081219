@@ -3,7 +3,7 @@ class Team
   
   @@all = []
   
-  def initialze(params)
+  def initialize(params)
     @name = params[:name]
     @motto = params[:motto]
     
