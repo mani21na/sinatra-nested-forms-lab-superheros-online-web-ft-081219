@@ -7,6 +7,6 @@ class Team
     @name = params[:name]
     @motto = params[:motto]
     
-    @@all ,, self
+    @@all << self
   end 
 end 
