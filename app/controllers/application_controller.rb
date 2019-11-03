@@ -18,5 +18,5 @@ class App < Sinatra::Base
     @hero = Hero.all 
     
     erb :super_hero
-  end
+  
 end
